@@ -39,4 +39,4 @@ The feature selection techniques used are:
 ![Screenshot (72)](https://github.com/user-attachments/assets/56fcda44-35a6-4ee5-86ab-9bb7d24e2946)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus,Feature selection and Feature scaling has been used on the given dataset
